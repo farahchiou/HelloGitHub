@@ -5,7 +5,7 @@ public class HelloGit {
 		
 		System.out.println("=====> Hello Git!");
 		System.out.println("=====> hotfix!!");
-		System.out.println("=====> 2025092501 ");
+		System.out.println("=====> 2025092501 AAA");
 
 	}
 
